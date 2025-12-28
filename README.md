@@ -1,25 +1,18 @@
-## 👋 Hi, I’m Soufiane (pronounced Souf-Yen)
+## 👋 Hi, I'm Soufiane (Souf-Yen)
 
+I'm a software engineer and indie builder who loves taking ideas from concept to launch. I work across the full stack and care deeply about building things that actually work for people.
 
-I’m a **software engineer** and **indie builder** with a **strong product mindset**.
-Over the years, I’ve collaborated with different types of organizations, from small teams to large orgs, delivering scalable and meaningful solutions.
-I love working across the entire stack, from infrastructure to UI, and from idea to launch.
+## 🌱 Background
 
+Before tech, I spent years in restaurants, retail, and support roles. Those experiences taught me empathy and how good systems can make people's lives easier — something I bring to every project I build.
 
-## 🌱 My Journey
-Before working full-time in tech, I spent years in restaurants, retail, and customer support — experiences that taught me empathy, communication, and how thoughtful systems can empower people.
-That perspective continues to shape how I build and lead software projects today.
+## 🎵 Outside Work
 
-## 🎵 Beyond Code
-Outside of work, you’ll often find me:
+- Making beats and digging through vinyl
+- Shooting and editing photos
 
-- 🎶 Making beats or digging through vinyl
-- 📸 Shooting and editing photos
+Creative work keeps me curious and balanced.
 
-Creative work helps me stay curious, balanced, and inspired.
+## 🤝 Let's Connect
 
-## 🤝 Let’s Connect
-
-I’m always open to connecting with other engineers, founders, and indie makers.
-If you want to chat about systems design, product ideas, music or creative tech, I’d love to hear from you.
-
+Always happy to connect with engineers, founders, and makers. If you want to chat about systems, product ideas, music, or creative tech — reach out.
